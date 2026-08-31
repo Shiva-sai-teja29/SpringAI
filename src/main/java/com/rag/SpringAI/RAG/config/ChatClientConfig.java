@@ -1,4 +1,4 @@
-package com.rag.SpringAI.config;
+package com.rag.SpringAI.RAG.config;
 
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.ai.chat.model.ChatModel;

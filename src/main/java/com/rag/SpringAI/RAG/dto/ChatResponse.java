@@ -1,4 +1,4 @@
-package com.rag.SpringAI.dto;
+package com.rag.SpringAI.RAG.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

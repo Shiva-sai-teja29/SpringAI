@@ -1,8 +1,8 @@
-package com.rag.SpringAI.controller;
+package com.rag.SpringAI.RAG.controller;
 
-import com.rag.SpringAI.dto.ChatRequest;
-import com.rag.SpringAI.dto.ChatResponse;
-import com.rag.SpringAI.service.ChatService;
+import com.rag.SpringAI.RAG.dto.ChatRequest;
+import com.rag.SpringAI.RAG.dto.ChatResponse;
+import com.rag.SpringAI.RAG.service.ChatService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

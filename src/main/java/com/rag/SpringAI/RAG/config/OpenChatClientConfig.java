@@ -1,4 +1,4 @@
-package com.rag.SpringAI.config;
+package com.rag.SpringAI.RAG.config;
 
 import org.springframework.ai.chat.cache.semantic.SemanticCacheAdvisor;
 import org.springframework.ai.chat.client.ChatClient;

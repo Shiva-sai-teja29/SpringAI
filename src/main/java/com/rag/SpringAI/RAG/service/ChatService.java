@@ -1,7 +1,7 @@
-package com.rag.SpringAI.service;
+package com.rag.SpringAI.RAG.service;
 
-import com.rag.SpringAI.dto.ChatRequest;
-import com.rag.SpringAI.dto.ChatResponse;
+import com.rag.SpringAI.RAG.dto.ChatRequest;
+import com.rag.SpringAI.RAG.dto.ChatResponse;
 import lombok.RequiredArgsConstructor;
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.stereotype.Service;

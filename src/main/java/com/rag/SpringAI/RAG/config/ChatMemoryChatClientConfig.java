@@ -1,7 +1,6 @@
-package com.rag.SpringAI.config;
+package com.rag.SpringAI.RAG.config;
 
-import com.rag.SpringAI.Helper.PIIMaskingDocumentPostProcessor;
-import org.springframework.ai.chat.cache.semantic.SemanticCache;
+import com.rag.SpringAI.RAG.Helper.PIIMaskingDocumentPostProcessor;
 import org.springframework.ai.chat.cache.semantic.SemanticCacheAdvisor;
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.ai.chat.client.advisor.MessageChatMemoryAdvisor;

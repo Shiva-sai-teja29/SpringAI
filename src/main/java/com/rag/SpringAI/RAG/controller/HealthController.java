@@ -1,4 +1,4 @@
-package com.rag.SpringAI.controller;
+package com.rag.SpringAI.RAG.controller;
 
 
 import org.springframework.web.bind.annotation.GetMapping;

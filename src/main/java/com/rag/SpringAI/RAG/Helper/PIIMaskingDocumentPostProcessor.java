@@ -1,4 +1,4 @@
-package com.rag.SpringAI.Helper;
+package com.rag.SpringAI.RAG.Helper;
 
 import lombok.extern.slf4j.Slf4j;
 import org.slf4j.Logger;

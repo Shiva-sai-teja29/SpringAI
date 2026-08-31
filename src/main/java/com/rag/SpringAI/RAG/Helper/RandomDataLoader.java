@@ -1,4 +1,4 @@
-package com.rag.SpringAI.Helper;
+package com.rag.SpringAI.RAG.Helper;
 
 import jakarta.annotation.PostConstruct;
 import lombok.RequiredArgsConstructor;
